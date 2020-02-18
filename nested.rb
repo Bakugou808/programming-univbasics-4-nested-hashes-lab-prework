@@ -58,7 +58,7 @@ def dennis_ritchies_language
         }
      }
   x = programmer_hash[:dennis_ritchie][:languages] 
-  puts x
+  print x
   
 end
 
